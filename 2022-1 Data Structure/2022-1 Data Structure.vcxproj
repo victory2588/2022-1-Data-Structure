@@ -140,7 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="과제-다항식 덧셈.cpp" />
+    <ClCompile Include="괄호검사.cpp" />
     <ClCompile Include="내가 이상하게 짠 다항식 덧셈.cpp" />
+    <ClCompile Include="스택(연결리스트+클래스).cpp" />
+    <ClCompile Include="스택(클래스).cpp" />
     <ClCompile Include="실습7-1%28원형연결리스트%29.cpp" />
     <ClCompile Include="실습1-1.cpp" />
     <ClCompile Include="실습1-2.cpp" />
@@ -155,6 +158,7 @@
     <ClCompile Include="실습3-3.cpp" />
     <ClCompile Include="실습6-1.cpp" />
     <ClCompile Include="실습7-2(리스트 역순).cpp" />
+    <ClCompile Include="이중연결리스트.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

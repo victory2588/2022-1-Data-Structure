@@ -63,5 +63,17 @@
     <ClCompile Include="내가 이상하게 짠 다항식 덧셈.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="이중연결리스트.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스택(클래스).cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스택(연결리스트+클래스).cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호검사.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -75,5 +75,14 @@
     <ClCompile Include="괄호검사.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="큐(연결리스트).cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="큐(배열).cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="중위표기를 후위표기로.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

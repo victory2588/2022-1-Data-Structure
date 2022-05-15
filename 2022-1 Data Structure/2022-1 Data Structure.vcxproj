@@ -159,6 +159,9 @@
     <ClCompile Include="실습6-1.cpp" />
     <ClCompile Include="실습7-2(리스트 역순).cpp" />
     <ClCompile Include="이중연결리스트.cpp" />
+    <ClCompile Include="중위표기를 후위표기로.cpp" />
+    <ClCompile Include="큐(배열).cpp" />
+    <ClCompile Include="큐(연결리스트).cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
